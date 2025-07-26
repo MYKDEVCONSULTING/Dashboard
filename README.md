@@ -224,6 +224,9 @@ Pour toute question ou problème :
 - [ ] Export de données
 - [ ] Sauvegardes automatiques
 
+
+
+systeme complet a utiliser comme dashbpoard reutilisable 
 ---
 
 **MYKDASHBOARD** - *Tableau de bord professionnel moderne et sécurisé*
