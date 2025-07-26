@@ -209,7 +209,7 @@ Pour toute question ou problème :
 1. Consultez la documentation
 2. Vérifiez les issues existantes
 3. Créez une nouvelle issue si nécessaire
-
+4. Demander a chatgpt 
 ## 🎯 Roadmap
 
 ### Version 2.0
