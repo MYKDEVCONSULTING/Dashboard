@@ -157,7 +157,7 @@ Système de permissions granulaires :
 - Basé sur les rôles utilisateur
 - Contrôle d'accès aux routes
 - Limitation des actions par interface
-
+- test des permission
 ## 🚀 Déploiement
 
 ### Netlify (Recommandé)
