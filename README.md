@@ -1,4 +1,4 @@
-# MYKDASHBOARD - Application de Tableau de Bord Professionnel
+# MYKDASHBOARD Super Side - Application de Tableau de Bord Professionnel
 
 Une application web moderne de tableau de bord avec authentification sécurisée, gestion des utilisateurs hiérarchisée, et interface multilingue responsive.
 
